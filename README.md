@@ -2,4 +2,4 @@
 
 # ricosmall
 
-<p class="profile-content">personal profile content.</p>
+<p class="profile-content">Hello World.</p>
