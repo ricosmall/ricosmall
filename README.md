@@ -2,4 +2,4 @@
 
 # ricosmall
 
-personal profile content.
+<p class="profile-content">personal profile content.</p>
