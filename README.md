@@ -1,3 +1,3 @@
 # ricosmall
 
-Today is Sunday.
+Today is Monday.
