@@ -44,4 +44,4 @@ jobs:
     
     # Commit change and push to repository
     - name: Commit and push
-      uses: khaazz/action-autocommit@master
+      uses: khaazz/action-autocommit@main
