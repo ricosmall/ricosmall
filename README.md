@@ -1,6 +1,6 @@
 # ricosmall
 
-Today is Saturday.
+Today is Sunday.
 
 Weather infomation of 深圳市南山区， 广东省， 中国: 
 
