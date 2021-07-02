@@ -1,6 +1,6 @@
 # ricosmall
 
-Today is Thursday.
+Today is Friday.
 
 Weather infomation of 深圳市南山区， 广东省， 中国: 
 
