@@ -1,9 +1,9 @@
 # ricosmall
 
-Today is Wednesday.
+Today is Thursday.
 
 Weather infomation of 深圳市南山区， 广东省， 中国: 
 
-Weather: 晴, Temperature: 23 ℃ , Air Index: 42 优
+Weather: 晴, Temperature: 24 ℃ , Air Index: 43 优森林火险 红色
 
 <img src="https://github-readme-stats.vercel.app/api?username=ricosmall&show_icons=true" />
