@@ -10,7 +10,7 @@
     "update:readme": "node index.js"
   },
   "dependencies": {
-    "axios": "^0.21.2",
+    "axios": "^1.6.0",
     "cheerio": "^1.0.0-rc.3"
   }
 }
